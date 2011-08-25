@@ -1,0 +1,13 @@
+This is my first git commit through gitolite.
+
+After installing with 'Darryl' as the administrator, I did:
+mkdir test_gitolite
+cd test_gitolite
+git clone gitolite@gitolite:testing
+cd testing
+emacs README
+
+And now I am here.
+And now I am here.
+
+I am making this checkin through my personal github account (adamsd5), which has been added as a collaborator to Eladian's github account on the 'testing' repository.
